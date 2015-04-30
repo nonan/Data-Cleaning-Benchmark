@@ -1,0 +1,24 @@
+Data-cleaning Benchmark
+
+We developed this benchmark dataset for testing and evaluating data-cleaning frameworks. The schema,
+denial constraints, unclean database with respect to the defined constraints, and the clean database are publicly avilable.
+
+
+The following files are included in this distribution:
+  |
+  +---Databases/
+  |	|
+  |	+---dirtyDatabase
+  |	|
+  |	+---cleanDatabase
+  |	|
+  |	+---schema
+  |
+  +---doc
+  |     |
+  |     +---denial constraints
+  |
+  |
+  +---tools
+	|
+	+--- scripts for DB data entry
